@@ -18,7 +18,7 @@
     border-radius: 5px;
     box-shadow: 2px 2px 4px 4px rgb(169, 95, 95);
     height: 300px;
-    width: 350px;
+    width: 400px;
 }
 
 #titulo{
@@ -26,7 +26,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
+
 
 label{
    font-size: 150px;
